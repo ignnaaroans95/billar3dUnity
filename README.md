@@ -17,12 +17,13 @@
 
 ## 🛠️ Tecnologías
 
-- Unity 3D
-- C#
-- WebGL (para futura demo online)
-- Diseño de UI personalizado
-- Físicas y colisiones realistas
-
+| Tecnología | Icono |
+|------------|-------|
+| Unity 3D   | ![Unity](https://img.shields.io/badge/Unity-2022.3.62f1-white?logo=unity&logoColor=black) |
+| C#         | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&labelColor=239120) |
+| WebGL (futura demo) | ![WebGL](https://img.shields.io/badge/WebGL-000000?logo=webgl&logoColor=white) |
+| Diseño UI personalizado | 🎨 |
+| Físicas y colisiones | 🎱 |
 ---
 
 ## 🎮 Demo en vivo
