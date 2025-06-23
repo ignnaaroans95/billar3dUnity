@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="resources/icono-billar-2.png" alt="Billar 3D Cover" width="100" style="vertical-align: -10%; margin-right: 10px;">
-  <span style="font-size: 2em; font-weight: bold;">Billar 3D Unity</span>
+
 </p>
 
 **Simulación interactiva de billar en 3D, desarrollada en Unity, con físicas realistas, control de taco, UI personalizada y efectos de sonido.**
