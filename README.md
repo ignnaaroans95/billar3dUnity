@@ -3,7 +3,8 @@
   <span style="font-size: 2em; font-weight: bold; "Billar 3D Unity</span>
 </p>
 
-**Simulación interactiva de billar en 3D, desarrollada en Unity, con físicas realistas, control de taco, UI personalizada y efectos de sonido.**
+**Simulación interactiva de billar en 3D, desarrollada en Unity, con físicas realistas, control de taco, UI personalizada y efectos de sonido.Ejecutar con la versión 2022.3.62f1**
+
 
 ---
 
