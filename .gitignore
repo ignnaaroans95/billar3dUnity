@@ -1,0 +1,45 @@
+# This .gitignore file is for Unity projects
+
+# === Folders to ignore ===
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+[Uu]serSettings/
+MemoryCaptures/
+
+# === Files to ignore ===
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# === OS generated ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# === Visual Studio Code ===
+.vscode/
+
+# === Rider IDE ===
+.idea/
+*.sln.iml
