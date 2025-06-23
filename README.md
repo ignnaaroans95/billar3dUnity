@@ -1,15 +1,15 @@
-<h1>
 <p align="center">
-  <img src="resources/icono-billar-2.png" alt="Billar 3D Cover" width="50" style="vertical-align: middle; margin-bottom: 6px; margin-right: 10px;">
+  <img src="resources/icono-billar-2.png" alt="Billar 3D Cover" width="50" style="vertical-align: -10%; margin-right: 10px;">
   <span style="font-size: 2em; font-weight: bold;">Billar 3D Unity</span>
 </p>
-
 
 **Simulación interactiva de billar en 3D, desarrollada en Unity, con físicas realistas, control de taco, UI personalizada y efectos de sonido.**
 
 ---
 
-[![Billar 3D Demo](resources/billar3d-demo.gif)](https://LINK-A-TU-GOOGLE-DRIVE-O-ITCHIO)
+<p align="center">
+  <img src="resources/billar3d-demo.gif" alt="Billar 3D Demo" width="800"/>
+</p>
 
 ---
 
@@ -23,7 +23,11 @@
 
 ---
 
+## 🎮 Demo en vivo
 
+👉 [Descargar y jugar ahora (.EXE)](https://LINK-A-TU-GOOGLE-DRIVE-O-ITCHIO)
+
+---
 
 ## 📦 Cómo clonar y ejecutar
 
