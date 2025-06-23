@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">🚀 Tecnologías utilizadas</h2>
+<h2>🚀 Tecnologías utilizadas</h2>
 
 <p align="center">
   
