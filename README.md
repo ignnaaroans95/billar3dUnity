@@ -1,5 +1,5 @@
 <h1>
-  <img src="resources/billar3d-cover.png" alt="Billar 3D Cover" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="resources/icono-billar.png" alt="Billar 3D Cover" width="50" style="vertical-align: middle; margin-right: 10px;">
   Billar 3D Unity
 </h1>
 
@@ -21,11 +21,7 @@
 
 ---
 
-## 🎮 Demo en vivo
 
-👉 [Descargar y jugar ahora (.EXE)](https://LINK-A-TU-GOOGLE-DRIVE-O-ITCHIO)
-
----
 
 ## 📦 Cómo clonar y ejecutar
 
