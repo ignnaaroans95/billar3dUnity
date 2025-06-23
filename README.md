@@ -18,33 +18,36 @@
 <h2 align="center">🚀 Tecnologías utilizadas</h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <th>Tecnología</th>
-      <th>Icono</th>
-    </tr>
-    <tr>
-      <td>Unity 3D</td>
-      <td><img src="https://img.shields.io/badge/Unity-2022.3.62f1-white?logo=unity&logoColor=black" /></td>
-    </tr>
-    <tr>
-      <td>C#</td>
-      <td><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&labelColor=239120" /></td>
-    </tr>
-    <tr>
-      <td>WebGL (futura demo)</td>
-      <td><img src="https://img.shields.io/badge/WebGL-000000?logo=webgl&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>Diseño UI personalizado</td>
-      <td>🎨</td>
-    </tr>
-    <tr>
-      <td>Físicas y colisiones</td>
-      <td>🎱</td>
-    </tr>
-  </table>
+  
+<table>
+  <tr>
+    <th>Tecnología</th>
+    <th>Icono</th>
+  </tr>
+  <tr>
+    <td>Unity 3D</td>
+    <td><img src="https://img.shields.io/badge/Unity-2022.3.62f1-white?logo=unity&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&labelColor=239120" /></td>
+  </tr>
+  <tr>
+    <td>WebGL (futura demo)</td>
+    <td><img src="https://img.shields.io/badge/WebGL-000000?logo=webgl&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Diseño UI personalizado</td>
+    <td>🎨</td>
+  </tr>
+  <tr>
+    <td>Físicas y colisiones</td>
+    <td>🎱</td>
+  </tr>
+</table>
+
 </p>
+
 
 ## 🎮 Demo en vivo
 
